@@ -69,6 +69,10 @@ I'm not actually saying your shitty site should look like this. What I'm saying 
 <blockquote cite="https://www.vitsoe.com/us/about/good-design">"Good design is as little design as possible."<br>
             - some German motherfucker
 </blockquote>
+<hr>
+<h2>Epilogue</h2>
+
+
 
     </body>
 </html>
