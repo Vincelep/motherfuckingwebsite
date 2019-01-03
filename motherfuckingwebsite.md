@@ -54,6 +54,12 @@ It has content on the fucking screen. Your site has three bylines and link to yo
 
 <p>Cross-browser compatibility? Load this motherfucker in IE6. I fucking dare you.</p>
 
+<h2>This is a website. Look at it.  You've never seen one before.</h2>
+
+<p>
+Like the man who's never grown out his beard has no idea what his true natural state is, you have no fucking idea what a website is. All you have ever seen are shitty skeuomorphic bastardizations of what should be text communicating a fucking message. This is a real, naked website. Look at it. It's fucking beautiful.
+</p>
+
 
 
     </body>
