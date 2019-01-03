@@ -66,6 +66,9 @@ Like the man who's never grown out his beard has no idea what his true natural s
 I'm not actually saying your shitty site should look like this. What I'm saying is that all the problems we have with websites are <strong>ones we create ourselves</strong>. Websites aren't broken by default, they are functional, high-performing, and accessible. You break them. You son-of-a-bitch.
 </p>
 
+<blockquote cite="https://www.vitsoe.com/us/about/good-design">"Good design is as little design as possible."<br>
+            - some German motherfucker
+</blockquote>
 
     </body>
 </html>
